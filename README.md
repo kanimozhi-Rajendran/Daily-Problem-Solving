@@ -12,3 +12,4 @@ Daily coding practice using Java.
 | Day | Problems Solved | Topic |
 |-----|-----------------|-------|
 | Day 01 | 1 | Loops |
+| Day 02 | 1 | LoopsII |
